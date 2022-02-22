@@ -1,0 +1,12 @@
+default_context:
+    municipality: "Portland"
+    governing_body_type: "city council"
+    municipality_slug: "portland"
+    python_municipality_slug: "portland"
+    infrastructure_slug: "cdp-portland-d2bbda97"
+    maintainer_or_org_full_name: "dphoria"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "portland"
+    hosting_github_url: "https://github.com/CouncilDataProject/portland"
+    hosting_web_app_address: "https://councildataproject.github.io/portland"
+    firestore_region: "us-west1"

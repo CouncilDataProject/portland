@@ -1,0 +1,2 @@
+(this["webpackJsonpcdp-portland"]=this["webpackJsonpcdp-portland"]||[]).push([[0],{203:function(n,t){},91:function(n,t,e){"use strict";e.r(t);e(0);var o=e(25),i=e.n(o),p=e(63),c=(e(217),e(54));i.a.render(Object(c.jsx)("div",{children:Object(c.jsx)(p.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-portland-d2bbda97"},settings:{}},municipality:{name:"Portland",footerLinksSections:[]}},children:Object(c.jsx)(p.App,{})})}),document.getElementById("root"))}},[[91,1,2]]]);
+//# sourceMappingURL=main.a8e13f9a.chunk.js.map

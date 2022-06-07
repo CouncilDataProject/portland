@@ -13,6 +13,7 @@ const config = {
     },
     municipality: {
         name: "Portland",
+        timeZone: "America/Los_Angeles",
         footerLinksSections: [],
     },
 }

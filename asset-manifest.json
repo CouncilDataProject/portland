@@ -5,16 +5,16 @@
     "runtime-main.js": "/portland/static/js/runtime-main.fe4cf49d.js",
     "runtime-main.js.map": "/portland/static/js/runtime-main.fe4cf49d.js.map",
     "static/css/2.3fe0b2dc.chunk.css": "/portland/static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.cde84f42.chunk.js": "/portland/static/js/2.cde84f42.chunk.js",
-    "static/js/2.cde84f42.chunk.js.map": "/portland/static/js/2.cde84f42.chunk.js.map",
+    "static/js/2.3a12a193.chunk.js": "/portland/static/js/2.3a12a193.chunk.js",
+    "static/js/2.3a12a193.chunk.js.map": "/portland/static/js/2.3a12a193.chunk.js.map",
     "index.html": "/portland/index.html",
     "static/css/2.3fe0b2dc.chunk.css.map": "/portland/static/css/2.3fe0b2dc.chunk.css.map",
-    "static/js/2.cde84f42.chunk.js.LICENSE.txt": "/portland/static/js/2.cde84f42.chunk.js.LICENSE.txt"
+    "static/js/2.3a12a193.chunk.js.LICENSE.txt": "/portland/static/js/2.3a12a193.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fe4cf49d.js",
     "static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.cde84f42.chunk.js",
+    "static/js/2.3a12a193.chunk.js",
     "static/js/main.cf79a247.chunk.js"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/portland/static/js/main.c90224de.chunk.js",
-    "main.js.map": "/portland/static/js/main.c90224de.chunk.js.map",
-    "runtime-main.js": "/portland/static/js/runtime-main.112e3721.js",
-    "runtime-main.js.map": "/portland/static/js/runtime-main.112e3721.js.map",
+    "main.js": "/portland/static/js/main.dda55b96.chunk.js",
+    "main.js.map": "/portland/static/js/main.dda55b96.chunk.js.map",
+    "runtime-main.js": "/portland/static/js/runtime-main.2d7176c5.js",
+    "runtime-main.js.map": "/portland/static/js/runtime-main.2d7176c5.js.map",
     "static/css/2.bd5b6b7e.chunk.css": "/portland/static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.540634e2.chunk.js": "/portland/static/js/2.540634e2.chunk.js",
-    "static/js/2.540634e2.chunk.js.map": "/portland/static/js/2.540634e2.chunk.js.map",
+    "static/js/2.7f4794d2.chunk.js": "/portland/static/js/2.7f4794d2.chunk.js",
+    "static/js/2.7f4794d2.chunk.js.map": "/portland/static/js/2.7f4794d2.chunk.js.map",
     "index.html": "/portland/index.html",
     "static/css/2.bd5b6b7e.chunk.css.map": "/portland/static/css/2.bd5b6b7e.chunk.css.map",
-    "static/js/2.540634e2.chunk.js.LICENSE.txt": "/portland/static/js/2.540634e2.chunk.js.LICENSE.txt"
+    "static/js/2.7f4794d2.chunk.js.LICENSE.txt": "/portland/static/js/2.7f4794d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.112e3721.js",
+    "static/js/runtime-main.2d7176c5.js",
     "static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.540634e2.chunk.js",
-    "static/js/main.c90224de.chunk.js"
+    "static/js/2.7f4794d2.chunk.js",
+    "static/js/main.dda55b96.chunk.js"
   ]
 }
